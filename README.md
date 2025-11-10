@@ -1,5 +1,3 @@
-# windows-server-lab
-Built and configured a Windows Server lab simulating a real IT infrastructure with centralized user and network management.
 # Windows Server Lab – AD, DHCP, DNS
 
 ## Overview
