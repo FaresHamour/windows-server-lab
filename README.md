@@ -6,13 +6,14 @@ A virtualized lab environment built to simulate enterprise IT infrastructure...
 ## Technologies
 - Windows Server 2022  
 - PowerShell  
-- VirtualBox  
+- Hyper-V Manager
+- Virtual Machine 
 
 ## Steps
-1. Installed Windows Server  
-2. Configured AD DS  
-3. Added DHCP role...  
-4. Configured DNS zone...  
+1. Create a windows server 2022 on Hyper-V Manager
+3. Configured AD DS  
+4. Added DHCP role...  
+5. Configured DNS zone...  
 
 ## Screenshots
 
