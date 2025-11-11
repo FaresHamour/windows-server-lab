@@ -22,6 +22,8 @@ A virtualized lab environment built to simulate enterprise IT infrastructure...
 2. Creating the domain and making the server the active directory domain controller
 <img width="1364" height="730" alt="image" src="https://github.com/user-attachments/assets/5faff48e-d5c1-4acc-85ef-42b22136efd5" />
 
+3. Domain creation proof, i've named the domain 'Domain'
+<img width="1366" height="767" alt="image" src="https://github.com/user-attachments/assets/7dcaf621-4a06-40f3-aef1-82dd97984b53" />
 
 ## Outcome
 Successfully created a functional test domain with centralized authentication, DHCP IP distribution, and DNS resolution.
