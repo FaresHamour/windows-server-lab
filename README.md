@@ -19,6 +19,9 @@ A virtualized lab environment built to simulate enterprise IT infrastructure...
 1. Add active directory and Group Policy Management on the server
 <img width="1363" height="770" alt="image" src="https://github.com/user-attachments/assets/0c747025-5b8c-4779-93f5-decfb0d9e04d" />
 
+2. Creating the domain and making the server the active directory domain controller
+<img width="1364" height="730" alt="image" src="https://github.com/user-attachments/assets/5faff48e-d5c1-4acc-85ef-42b22136efd5" />
+
 
 ## Outcome
 Successfully created a functional test domain with centralized authentication, DHCP IP distribution, and DNS resolution.
