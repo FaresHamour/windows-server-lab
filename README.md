@@ -25,5 +25,11 @@ A virtualized lab environment built to simulate enterprise IT infrastructure...
 3. Domain creation proof
 <img width="1366" height="767" alt="image" src="https://github.com/user-attachments/assets/7dcaf621-4a06-40f3-aef1-82dd97984b53" />
 
+4. Create new Zone for DNS, a new zone is crucial for easier management, backup, and troubleshooting
+<img width="1362" height="772" alt="image" src="https://github.com/user-attachments/assets/a7dcf909-49a9-4641-a058-a683f6d34f86" />
+
+5. Add the DHCP
+<img width="1358" height="766" alt="image" src="https://github.com/user-attachments/assets/ed5ca100-d30c-4ee6-b5fb-72ebfd8771a0" />
+
 ## Outcome
 Successfully created a functional test domain with centralized authentication, DHCP IP distribution, and DNS resolution.
