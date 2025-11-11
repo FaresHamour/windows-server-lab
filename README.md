@@ -16,7 +16,7 @@ A virtualized lab environment built to simulate enterprise IT infrastructure...
 5. Configured DNS zone...  
 
 ## Screenshots
-1. Add active directory on the server
+1. Add active directory and Group Policy Management on the server
 <img width="1363" height="770" alt="image" src="https://github.com/user-attachments/assets/0c747025-5b8c-4779-93f5-decfb0d9e04d" />
 
 
