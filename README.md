@@ -31,5 +31,10 @@ A virtualized lab environment built to simulate enterprise IT infrastructure...
 5. Add the DHCP
 <img width="1358" height="766" alt="image" src="https://github.com/user-attachments/assets/ed5ca100-d30c-4ee6-b5fb-72ebfd8771a0" />
 
+6. Creating a Scope for DHCP to put up to 151 clients
+<img width="1362" height="765" alt="image" src="https://github.com/user-attachments/assets/72a86d90-d7b3-4804-9a48-c53cd7e32bca" />
+
+7. 
+
 ## Outcome
 Successfully created a functional test domain with centralized authentication, DHCP IP distribution, and DNS resolution.
